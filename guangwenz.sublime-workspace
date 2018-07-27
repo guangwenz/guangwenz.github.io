@@ -1,0 +1,1846 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pi",
+				"pixel"
+			],
+			[
+				"pix",
+				"pixels"
+			],
+			[
+				"shoul",
+				"shouldBe"
+			],
+			[
+				"sp",
+				"specasync\tspec-repository"
+			],
+			[
+				"Owenrtype",
+				"OwnerType"
+			],
+			[
+				"Pixp",
+				"PixelPage"
+			],
+			[
+				"pxi",
+				"pixel"
+			],
+			[
+				"en",
+				"entity\tslick-entity"
+			],
+			[
+				"param",
+				"parameters"
+			],
+			[
+				"Logg",
+				"LOGGER"
+			],
+			[
+				"loaded",
+				"loadedMembershipFileIds"
+			],
+			[
+				"Loadeventpri",
+				"LoadEventPriceRangeForCode"
+			],
+			[
+				"appli",
+				"appliedAccessCode"
+			],
+			[
+				"promo",
+				"pricePromoCode"
+			],
+			[
+				"Akka",
+				"AkkaManagement"
+			],
+			[
+				"memberFil",
+				"membershipFileId"
+			],
+			[
+				"de",
+				"defcol\tslick-column"
+			],
+			[
+				"ageres",
+				"ageRestrictionDisclaimer"
+			],
+			[
+				"age",
+				"ageRestrictionDisclaimer"
+			],
+			[
+				"pag",
+				"pageType"
+			],
+			[
+				"eetyp",
+				"EventEDPPageType"
+			],
+			[
+				"DOMAIN",
+				"domainId"
+			],
+			[
+				"idl",
+				"idleTimeout"
+			],
+			[
+				"wa",
+				"warn_only\tfunction"
+			],
+			[
+				"locus",
+				"locust"
+			],
+			[
+				"Shar",
+				"ShardRegion"
+			],
+			[
+				"rebla",
+				"rebalanceInProgress"
+			],
+			[
+				"max",
+				"maxShardsCollection"
+			],
+			[
+				"empty",
+				"emptyRebalanceResult"
+			],
+			[
+				"rel",
+				"rebalanceThreshold"
+			],
+			[
+				"min",
+				"minShardsCollection"
+			],
+			[
+				"rebal",
+				"rebalanceInProgress"
+			],
+			[
+				"locu",
+				"locust-grid"
+			],
+			[
+				"ec2",
+				"ec2-user"
+			],
+			[
+				"in",
+				"instances\tstatement"
+			],
+			[
+				"currency",
+				"currencyCode"
+			],
+			[
+				"priceran",
+				"priceRange"
+			],
+			[
+				"serv",
+				"serviceOptions"
+			],
+			[
+				"serviceoptio",
+				"serviceOption"
+			],
+			[
+				"leisr",
+				"LoadEventInventorySummary"
+			],
+			[
+				"inven",
+				"inventory"
+			],
+			[
+				"feecal",
+				"feecalculator"
+			],
+			[
+				"evenid",
+				"eventInfoId"
+			],
+			[
+				"calcu",
+				"calculator"
+			],
+			[
+				"actor",
+				"actorfsm\takka-cluster-actor"
+			],
+			[
+				"calc",
+				"calculator"
+			],
+			[
+				"boxof",
+				"boxOfficeFee"
+			],
+			[
+				"ti",
+				"tieredFees"
+			],
+			[
+				"buy",
+				"buyerUpperbound"
+			],
+			[
+				"spec",
+				"specflat\tspec-flat"
+			],
+			[
+				"Feetype",
+				"FeeType"
+			],
+			[
+				"tierfs",
+				"tieredFees"
+			],
+			[
+				"tir",
+				"tieredFee"
+			],
+			[
+				"TIer",
+				"tieredFee"
+			],
+			[
+				"tiered",
+				"tieredFee"
+			],
+			[
+				"orde",
+				"orderFees"
+			],
+			[
+				"te",
+				"tiredFee"
+			],
+			[
+				"Ser",
+				"ServiceOption"
+			],
+			[
+				"Owner",
+				"OwnerTypes"
+			],
+			[
+				"venue",
+				"venueLocalTimeNow"
+			],
+			[
+				"pur",
+				"purchaseLimit"
+			],
+			[
+				"custom",
+				"customText"
+			],
+			[
+				"servi",
+				"serviceOps"
+			],
+			[
+				"servic",
+				"serviceOption"
+			],
+			[
+				"app",
+				"appliedAccessCode"
+			],
+			[
+				"key",
+				"key_prefix"
+			],
+			[
+				"tierefe",
+				"tieredFee"
+			],
+			[
+				"offsale",
+				"offsale"
+			],
+			[
+				"eba",
+				"eventBasicsActor"
+			],
+			[
+				"ep",
+				"EventPrices"
+			],
+			[
+				"deliverymethod",
+				"deliveryMethods"
+			],
+			[
+				"deliop",
+				"deliveryOpt"
+			],
+			[
+				"cusr",
+				"customTextResult"
+			],
+			[
+				"Actor",
+				"ActorRef"
+			],
+			[
+				"maybe",
+				"maybeEventDetail"
+			],
+			[
+				"eventde",
+				"eventDetail"
+			],
+			[
+				"ma",
+				"maybeEventDetail"
+			],
+			[
+				"ebasic",
+				"EventBasics"
+			],
+			[
+				"leb",
+				"LoadEventBasics"
+			],
+			[
+				"Ev",
+				"EventBasics"
+			],
+			[
+				"lect",
+				"LoadEventCustomText"
+			],
+			[
+				"Event",
+				"EventCustomTexts"
+			],
+			[
+				"ac",
+				"actorfsm\takka-cluster-actor"
+			],
+			[
+				"laoding",
+				"Loading"
+			],
+			[
+				"Orac",
+				"OracleDbModule"
+			],
+			[
+				"rdb",
+				"rdbModule"
+			],
+			[
+				"sec",
+				"section"
+			],
+			[
+				"cluse",
+				"ClusterShardingSettings"
+			],
+			[
+				"sectionpur",
+				"sectionPurchaseLimitValue"
+			],
+			[
+				"prices",
+				"prices"
+			],
+			[
+				"maxp",
+				"priceMaxPurchaseLimitForPrice"
+			],
+			[
+				"dei",
+				"divider"
+			],
+			[
+				"attra",
+				"attractionOverrides"
+			],
+			[
+				"pro",
+				"protoAttraction"
+			],
+			[
+				"AL",
+				"AttractionLink"
+			],
+			[
+				"EventAt",
+				"EventAttractions"
+			],
+			[
+				"al",
+				"AttractionLink"
+			],
+			[
+				"int",
+				"int32"
+			],
+			[
+				"inventor",
+				"inventories"
+			],
+			[
+				"Promo",
+				"PromoCodeTableT"
+			],
+			[
+				"json",
+				"jsonformat\tjsonprotocol"
+			],
+			[
+				"ve",
+				"venueLocalTimeNow"
+			],
+			[
+				"logg",
+				"logger\tscala-logger"
+			],
+			[
+				"invent",
+				"inventories"
+			],
+			[
+				"ei",
+				"EventInventories"
+			],
+			[
+				"section",
+				"sectionPricingRule"
+			],
+			[
+				"sectionpricings",
+				"sectionPricingRules"
+			],
+			[
+				"attracti",
+				"attraction"
+			],
+			[
+				"customt",
+				"customtext"
+			],
+			[
+				"customtex",
+				"customTexts"
+			],
+			[
+				"Owenrtyp",
+				"OwnerType"
+			],
+			[
+				"merge",
+				"mergeFees"
+			],
+			[
+				"owe",
+				"ownerId"
+			],
+			[
+				"bu",
+				"buyerMail"
+			],
+			[
+				"Ow",
+				"OwnerTypes"
+			],
+			[
+				"Ownertype",
+				"OwnerType"
+			],
+			[
+				"Ti",
+				"TieredFeeTableT"
+			],
+			[
+				"owner",
+				"owner"
+			],
+			[
+				"Ownertyp",
+				"OwnerType"
+			],
+			[
+				"buyerFee",
+				"BuyerFees"
+			],
+			[
+				"sellfees",
+				"SellerFees"
+			],
+			[
+				"Ot",
+				"OwnerType"
+			],
+			[
+				"T4",
+				"T4CheckoutChannel"
+			],
+			[
+				"Calc",
+				"CalculateEventAttractionName"
+			],
+			[
+				"timeio",
+				"TimeoutTriggerActor"
+			],
+			[
+				"edpu",
+				"eventDetailPageUrl"
+			],
+			[
+				"ean",
+				"evenAttractionName"
+			],
+			[
+				"shoudl",
+				"shouldBe"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_drafts/spring-cluster-session.md",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_drafts/akka-monitoring-with-kamon.md",
+			"settings":
+			{
+				"buffer_size": 129,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: slick-column"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"gi tpush",
+				"Git: Push"
+			],
+			[
+				"git ad ",
+				"Git: Add..."
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"gitp ush",
+				"Git: Push"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git checkoutf",
+				"Git: Checkout Current File"
+			],
+			[
+				"gitpush",
+				"Git: Push"
+			],
+			[
+				"snippet",
+				"Snippet: slick-entity"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git checkou",
+				"Git: Checkout Current File"
+			],
+			[
+				"gitpu sh",
+				"Git: Push"
+			],
+			[
+				"git ada",
+				"Git: Add All"
+			],
+			[
+				"git ocm",
+				"Git: Commit"
+			],
+			[
+				"git omm",
+				"Git: Commit"
+			],
+			[
+				"git dif",
+				"Git: Diff All Files"
+			],
+			[
+				"gitad",
+				"Git: Add..."
+			],
+			[
+				"git pushy",
+				"Preferences: GitGutter Popup Stylesheet"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git history",
+				"Git: Commit history"
+			],
+			[
+				"git df",
+				"Git: Diff Current File"
+			],
+			[
+				"diff",
+				"Git: Diff All Files"
+			],
+			[
+				"set",
+				"Set Syntax: JSON"
+			],
+			[
+				"gi tad",
+				"Git: Add..."
+			],
+			[
+				"setsy",
+				"Set Syntax: JSON"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git checkoutfu",
+				"Git: Checkout Current File"
+			],
+			[
+				"git checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"setsyn",
+				"Set Syntax: JSON"
+			],
+			[
+				"setsynjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"gitc om",
+				"Git: Commit"
+			],
+			[
+				"minimap",
+				"View: Toggle Minimap"
+			],
+			[
+				"snipactor",
+				"Snippet: akka-actor"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"igt com",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"git a",
+				"Git: Add..."
+			],
+			[
+				"git ",
+				"Git: Init"
+			],
+			[
+				"git puh",
+				"Git: Push"
+			],
+			[
+				"git change",
+				"Git: Change Branch"
+			],
+			[
+				"git fetch",
+				"Git: Fetch"
+			],
+			[
+				"git changebran",
+				"Git: Change Branch"
+			],
+			[
+				"git branch",
+				"Git: Track Remote Branch"
+			],
+			[
+				"git merge",
+				"Git: Merge Branch"
+			],
+			[
+				"git remote",
+				"Git: Track Remote Branch"
+			],
+			[
+				"git track",
+				"Git: Track Remote Branch"
+			],
+			[
+				"git pul",
+				"Git: Pull"
+			],
+			[
+				"git trackr",
+				"Git: Track Remote Branch"
+			],
+			[
+				"git remo",
+				"Git: Track Remote Branch"
+			],
+			[
+				"git bran",
+				"Git: Change Branch"
+			],
+			[
+				"it push",
+				"Git: Push"
+			],
+			[
+				"gti com",
+				"Git: Commit"
+			],
+			[
+				"git p",
+				"Git: Pull"
+			],
+			[
+				"git his",
+				"Git: Commit history"
+			],
+			[
+				"git",
+				"Git: Merge Branch"
+			],
+			[
+				"git new",
+				"Git: New Branch"
+			],
+			[
+				"git bra",
+				"Git: Change Branch"
+			],
+			[
+				"git fe",
+				"Git: Fetch"
+			],
+			[
+				"gita",
+				"Git: Add..."
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"gitco",
+				"Git: Commit"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"git:add",
+				"Git: Add..."
+			],
+			[
+				"dock",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"Docker",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"YAML",
+				"Set Syntax: YAML"
+			],
+			[
+				"Dock",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"terminal",
+				"Terminal: Open"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"JSON",
+				"Set Syntax: JSON"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"cmake",
+				"Set Syntax: CMake"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"termin",
+				"Terminal: Open in project folder"
+			],
+			[
+				"bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"minim",
+				"View: Toggle Minimap"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"javascrip",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packagecontrol",
+				"Package Control: Install Package"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packagecontrol: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/shrek.zhou/Documents/GitHub/guangwenz.github.io",
+		"/Users/shrek.zhou/Documents/GitHub/guangwenz.github.io/_drafts"
+	],
+	"file_history":
+	[
+		"/Users/shrek.zhou/Downloads/dbLocker (2).csv",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/pixel/EventPixelsActor.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/dao/FeeRepository.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/project/Dependencies.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/common/OwnerTypes.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/protobuf/pixel.proto",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/dao/PixelQueryRepository.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/test/scala/com/ticketweb/checkout/dao/PixelQueryRepositorySpec.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/test/scala/com/ticketweb/checkout/dao/FeeRepositorySpec.scala",
+		"/Users/shrek.zhou/tools/instantclient_12_1/stg1",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/dao/package.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/test/scala/com/ticketweb/checkout/price/service/EventPricesSpec.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/event/Routes.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/resources/kamon.conf",
+		"/Users/shrek.zhou/tools/instantclient_12_1/foo.log",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/resources/akka-cluster.conf",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/fee/service/feecalculator/TieredFeeSupport.scala",
+		"/Users/shrek.zhou/Downloads/selectHand.qml",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/project/plugins.sbt",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/helm/common/values.yaml",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/resources/application.conf",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/build.sbt",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/.gitlab-ci.yml",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/Boot.scala",
+		"/Users/shrek.zhou/workspace/twb-ticketing/helm/qa1.us-east-1_values.yaml",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/project/build.properties",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/section/Routes.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/test/perf/locustfile.py",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/event/service/CalculateDeliveryMethods.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/event/service/CalculateEventStatus.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/resources/logback.xml",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/common/package.scala",
+		"/Users/shrek.zhou/Downloads/dupprint.csv",
+		"/Users/shrek.zhou/Downloads/dupprint2.csv",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/common/ContextKeys.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/section/EventSectionsActor.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/README.md",
+		"/Users/shrek.zhou/configs/ecm/stg1/api.properties",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/event/EventEDPActor.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/protobuf/edp.proto",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/event/JSONProtocol.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/Routes.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/helm/stg1.us-east-1/values.yaml",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/test/scala/com/ticketweb/checkout/common/URLizeSpec.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/helm/prod2.us-east-1/values.yaml",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/event/service/LoadEventBasics.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/event/EventBasicsSupport.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/dao/EventDetailRepository.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/customtext/service/package.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/dao/PriceRepository.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/price/EventFeesSupport.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/customtext/JSONProtocol.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/fee/EventFeesActor.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/customtext/EventCustomTextActor.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/test/perf/eventids_prod2.csv",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/test/integration/eventids_stg.csv",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/protobuf/price.proto",
+		"/Users/shrek.zhou/jworkspace/twb-client-ecom/devops/fabfile.py",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/helm/install.sh",
+		"/Users/shrek.zhou/.sbt/1.0/sbt-coursier.sbt",
+		"/Users/shrek.zhou/.sbt/1.0/plugins/build.sbt",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/fee/service/feecalculator/CalculateAUNZFees.scala",
+		"/Users/shrek.zhou/.bashrc",
+		"/Users/shrek.zhou/.bash_profile",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/price/EventPricesActor.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/fee/service/EventFees.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/fee/service/feecalculator/package.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/fee/service/package.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/price/service/CalculatePriceRange.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/devops/fabfile.py",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/price/service/EventPrices.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/price/service/PriceFilter.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/helm/dev2.us-east-1/values.yaml",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/helm/qa1.us-east-1/values.yaml",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/resources/akka-persistence.conf",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/resources/swagger/swagger.yml",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/AkkaConfig.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/event/EventServicesActor.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/price/Routes.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/event/EventBasicsActor.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/event/service/LoadEDP.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/price/service/package.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/resources/app.conf",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/protobuf/section.proto",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/section/JSONProtocol.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/common/DeliveryOptions.scala",
+		"/Users/shrek.zhou/configs/ecm/stg1/override.properties",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/test/scala/com/ticketweb/checkout/fee/service/feecalculator/FeeCalculatorSpec.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/test/scala/com/ticketweb/checkout/fee/service/EventFeesSpec.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/attraction/EventAttractionsActor.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/attraction/service/EventAttractions.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/utils/package.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/dao/EventAttractionRepository.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/dao/CustomTextRepository.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/test/perf/fabfile.py",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/playbooks/roles/generate-docker-files/defaults/main.yml",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/devops/tf/tm-pci/prod2/terraform.tfvars",
+		"/Applications/PrinTIX.app/Contents/Resources/app/static/js/bundle.js",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/generated-gitlab-ci.yml",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/test/perf/eventids_stg.csv",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/target/docker/stage/Dockerfile",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/devops/k8s/deploy.yaml",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/devops/k8s/service.yaml",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/devops/k8s/ingress.yaml",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/devops/k8s/configmap.yaml",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/devops/tf/tm-pci/stg1/terraform.tfvars",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/playbooks/roles/generate-docker-files/templates/start.sh",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/playbooks/roles/generate-docker-files/templates/Dockerfile",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/common/EDPPageTypes.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/devops/helm/common/values.yaml",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/devops/helm/preprodpci.us-east-1/values.yaml",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/event/EventEDPPageTypeActor.scala",
+		"/Users/shrek.zhou/workspace/twb-devops/k8s/helm/ls",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/event/service/BuildEDPPageURL.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/devops/tf/data.tf",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/devops/tf/cloud-config.yml",
+		"/Users/shrek.zhou/Downloads/events_oversold_check.csv",
+		"/Users/shrek.zhou/tools/solr-7.2.1/example/films/films.json",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/test/perf/eventids_qa.csv",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/inventory/EventInventoriesActor.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/protobuf/inventory.proto",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/fee/Routes.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/protobuf/fee.proto",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/application/TimeoutSupport.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/test/perf/zipkin.py",
+		"/Users/shrek.zhou/Downloads/prometheus-2.2.0.darwin-amd64/prometheus.yml",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/application/ClusterShardingSupport.scala",
+		"/Users/shrek.zhou/scworkspace/twb-checkout/src/main/scala/com/ticketweb/checkout/customtext/CustomTextServicesActor.scala"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 114.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"app2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_drafts/spring-cluster-session.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.107.region_keys":
+							[
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_drafts/akka-monitoring-with-kamon.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"SL.108.region_keys":
+							[
+							],
+							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 139.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 139.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "guangwenz.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pixelqueryrepository",
+				"src/main/scala/com/ticketweb/checkout/dao/PixelQueryRepository.scala"
+			],
+			[
+				"eventcustomtextspec.scala",
+				"src/test/scala/com/ticketweb/checkout/customtext/service/EventCustomTextSpec.scala"
+			],
+			[
+				"owenrtypes",
+				"src/main/scala/com/ticketweb/checkout/common/OwnerTypes.scala"
+			],
+			[
+				"eventpricesspec.scala",
+				"src/test/scala/com/ticketweb/checkout/price/service/EventPricesSpec.scala"
+			],
+			[
+				"owenrtype",
+				"src/main/scala/com/ticketweb/checkout/common/OwnerTypes.scala"
+			],
+			[
+				"pixelrepo",
+				"src/main/scala/com/ticketweb/checkout/dao/PixelQueryRepository.scala"
+			],
+			[
+				"pixel",
+				"src/main/protobuf/pixel.proto"
+			],
+			[
+				"calculateeventstatus",
+				"src/main/scala/com/ticketweb/checkout/event/service/CalculateEventStatus.scala"
+			],
+			[
+				"eventbasicssupport",
+				"src/main/scala/com/ticketweb/checkout/event/EventBasicsSupport.scala"
+			],
+			[
+				"eventbasicssupport.scala",
+				"src/main/scala/com/ticketweb/checkout/event/EventBasicsSupport.scala"
+			],
+			[
+				"eventcustomtextactor.scala",
+				"src/main/scala/com/ticketweb/checkout/customtext/EventCustomTextActor.scala"
+			],
+			[
+				"eventfeesactor.scala",
+				"src/main/scala/com/ticketweb/checkout/fee/EventFeesActor.scala"
+			],
+			[
+				"jsonprotocol.scala",
+				"src/main/scala/com/ticketweb/checkout/customtext/JSONProtocol.scala"
+			],
+			[
+				"routes.scala",
+				"src/main/scala/com/ticketweb/checkout/Routes.scala"
+			],
+			[
+				"eventfeessupport.scala",
+				"src/main/scala/com/ticketweb/checkout/price/EventFeesSupport.scala"
+			],
+			[
+				"feerepository.scala",
+				"src/main/scala/com/ticketweb/checkout/dao/FeeRepository.scala"
+			],
+			[
+				"eventedpactor.scala",
+				"src/main/scala/com/ticketweb/checkout/event/EventEDPActor.scala"
+			],
+			[
+				"pricerepository.scala",
+				"src/main/scala/com/ticketweb/checkout/dao/PriceRepository.scala"
+			],
+			[
+				"loadeventbasics.scala",
+				"src/main/scala/com/ticketweb/checkout/event/service/LoadEventBasics.scala"
+			],
+			[
+				"boot.scala",
+				"src/main/scala/com/ticketweb/checkout/Boot.scala"
+			],
+			[
+				"package.scala",
+				"src/main/scala/com/ticketweb/checkout/customtext/service/package.scala"
+			],
+			[
+				"eventdetailrepository.scala",
+				"src/main/scala/com/ticketweb/checkout/dao/EventDetailRepository.scala"
+			],
+			[
+				"stg",
+				"src/test/integration/eventids_stg.csv"
+			],
+			[
+				"prod2",
+				"src/test/perf/eventids_prod2.csv"
+			],
+			[
+				"prod",
+				"src/test/perf/eventids_prod2.csv"
+			],
+			[
+				"pricereposi",
+				"src/main/scala/com/ticketweb/checkout/dao/PriceRepository.scala"
+			],
+			[
+				"eventbasi",
+				"src/main/scala/com/ticketweb/checkout/event/EventBasicsActor.scala"
+			],
+			[
+				"eventpricesac",
+				"src/main/scala/com/ticketweb/checkout/price/EventPricesActor.scala"
+			],
+			[
+				"pricerepos",
+				"src/main/scala/com/ticketweb/checkout/dao/PriceRepository.scala"
+			],
+			[
+				"delivery",
+				"src/main/scala/com/ticketweb/checkout/common/DeliveryOptions.scala"
+			],
+			[
+				"eventprices",
+				"src/main/scala/com/ticketweb/checkout/price/service/EventPrices.scala"
+			],
+			[
+				"feecalculatorspec.scala",
+				"src/test/scala/com/ticketweb/checkout/fee/service/feecalculator/FeeCalculatorSpec.scala"
+			],
+			[
+				"eventfeesspec.scala",
+				"src/test/scala/com/ticketweb/checkout/fee/service/EventFeesSpec.scala"
+			],
+			[
+				"eventpicess",
+				"src/test/scala/com/ticketweb/checkout/price/service/EventPricesSpec.scala"
+			],
+			[
+				"eventinventor",
+				"doc/application/EventInventoriesActor.scala"
+			],
+			[
+				"eventsectionsac",
+				"src/main/scala/com/ticketweb/checkout/section/EventSectionsActor.scala"
+			],
+			[
+				"locus",
+				"src/test/perf/locustfile.py"
+			],
+			[
+				"eventcustomtextactor",
+				"src/main/scala/com/ticketweb/checkout/customtext/EventCustomTextActor.scala"
+			],
+			[
+				"calculatedeliverymethods",
+				"src/main/scala/com/ticketweb/checkout/event/service/CalculateDeliveryMethods.scala"
+			],
+			[
+				"eventprice",
+				"src/main/scala/com/ticketweb/checkout/price/EventPricesActor.scala"
+			],
+			[
+				"eventfees",
+				"src/main/scala/com/ticketweb/checkout/fee/EventFeesActor.scala"
+			],
+			[
+				"eventids",
+				"src/test/perf/eventids_stg.csv"
+			],
+			[
+				"eventpricesactor",
+				"src/main/scala/com/ticketweb/checkout/price/EventPricesActor.scala"
+			],
+			[
+				"feerepos",
+				"src/main/scala/com/ticketweb/checkout/dao/FeeRepository.scala"
+			],
+			[
+				"feetypes",
+				"src/main/scala/com/ticketweb/checkout/common/FeeTypes.scala"
+			],
+			[
+				"comp",
+				"src/test/integration/comp.py"
+			],
+			[
+				"calculatepricerange.scala",
+				"src/main/scala/com/ticketweb/checkout/price/service/CalculatePriceRange.scala"
+			],
+			[
+				"eventpricerepository",
+				"doc/dao/EventSectionPriceRepository.scala"
+			],
+			[
+				"eventfeesac",
+				"src/main/scala/com/ticketweb/checkout/fee/EventFeesActor.scala"
+			],
+			[
+				"eventstatus",
+				"src/main/scala/com/ticketweb/checkout/event/service/CalculateEventStatus.scala"
+			],
+			[
+				"builde",
+				"src/main/scala/com/ticketweb/checkout/event/service/BuildEDPPageURL.scala"
+			],
+			[
+				"comp.py",
+				"src/test/integration/comp.py"
+			],
+			[
+				"buildedp",
+				"src/main/scala/com/ticketweb/checkout/event/service/BuildEDPPageURL.scala"
+			],
+			[
+				"domains",
+				"src/main/scala/com/ticketweb/checkout/common/Domains.scala"
+			],
+			[
+				"feerepso",
+				"src/main/scala/com/ticketweb/checkout/dao/FeeRepository.scala"
+			],
+			[
+				"com",
+				"src/test/integration/comp.py"
+			],
+			[
+				"serviceoptions",
+				"src/main/scala/com/ticketweb/checkout/common/ServiceOptions.scala"
+			],
+			[
+				"jsonpr",
+				"doc/web/JsonProtocol.scala"
+			],
+			[
+				"edp.py",
+				"src/test/python/edp.py"
+			],
+			[
+				"sectionrepository",
+				"src/main/scala/com/ticketweb/checkout/dao/SectionRepository.scala"
+			],
+			[
+				"pricerepository",
+				"src/main/scala/com/ticketweb/checkout/dao/PriceRepository.scala"
+			],
+			[
+				"eventdetailrepo",
+				"src/main/scala/com/ticketweb/checkout/dao/EventDetailRepository.scala"
+			],
+			[
+				"eventattractionsactor",
+				"src/main/scala/com/ticketweb/checkout/attraction/EventAttractionsActor.scala"
+			],
+			[
+				"customtext",
+				"src/main/scala/com/ticketweb/checkout/dao/CustomTextRepository.scala"
+			],
+			[
+				"swagy",
+				"src/main/resources/swagger/swagger.yml"
+			],
+			[
+				"eventcustomtextsspec.scala",
+				"src/test/scala/com/ticketweb/checkout/customtext/service/EventCustomTextsSpec.scala"
+			],
+			[
+				"price.",
+				"src/main/protobuf/price.proto"
+			],
+			[
+				"fee.pr",
+				"src/main/protobuf/fee.proto"
+			],
+			[
+				"attractionservicesactor",
+				"src/main/scala/com/ticketweb/checkout/attraction/AttractionServicesActor.scala"
+			],
+			[
+				"eventattractionrepository",
+				"src/main/scala/com/ticketweb/checkout/dao/EventAttractionRepository.scala"
+			],
+			[
+				"eventpricesspec",
+				"src/test/scala/com/ticketweb/checkout/price/service/EventPricesSpec.scala"
+			],
+			[
+				"calculateeventattractionnamespec.scala",
+				"src/test/scala/com/ticketweb/checkout/event/service/CalculateEventAttractionNameSpec.scala"
+			],
+			[
+				"buildedppageurlspec.scala",
+				"src/test/scala/com/ticketweb/checkout/event/service/BuildEDPPageURLSpec.scala"
+			],
+			[
+				"eventattra",
+				"src/test/scala/com/ticketweb/checkout/dao/EventAttractionRepositorySpec.scala"
+			],
+			[
+				"eventatractionde",
+				"src/test/scala/com/ticketweb/checkout/dao/EventAttractionDetailsRepositorySpec.scala"
+			],
+			[
+				"eventpricerepositorysp",
+				"src/test/scala/com/ticketweb/checkout/dao/EventPriceRepositorySpec.scala"
+			],
+			[
+				"attractionrepo",
+				"src/main/scala/com/ticketweb/checkout/dao/AttractionRepository.scala"
+			],
+			[
+				"eventatrep",
+				"src/main/scala/com/ticketweb/checkout/dao/EventAttractionRepository.scala"
+			],
+			[
+				"calculateeventattractionname.scala",
+				"src/main/scala/com/ticketweb/checkout/event/service/CalculateEventAttractionName.scala"
+			],
+			[
+				"inventoryrepos",
+				"doc/dao/InventoryRepository.scala"
+			],
+			[
+				"eventsectioninventoryrepository",
+				"src/test/scala/com/ticketweb/checkout/dao/EventSectionInventoryRepositorySpec.scala"
+			],
+			[
+				"calculatepricerangespe",
+				"src/test/scala/com/ticketweb/checkout/price/service/CalculatePriceRangeSpec.scala"
+			],
+			[
+				"eventprices.",
+				"src/main/scala/com/ticketweb/checkout/price/service/EventPrices.scala"
+			],
+			[
+				"calcu",
+				"src/main/scala/com/ticketweb/checkout/price/service/CalculatePriceRange.scala"
+			],
+			[
+				"calculatepricerangespec.scala",
+				"src/test/scala/com/ticketweb/checkout/price/service/CalculatePriceRangeSpec.scala"
+			],
+			[
+				"eventpricerepositoryspec.scala",
+				"src/test/scala/com/ticketweb/checkout/dao/EventPriceRepositorySpec.scala"
+			],
+			[
+				"calculatepri",
+				"src/test/scala/com/ticketweb/checkout/price/service/CalculatePriceRangeSpec.scala"
+			],
+			[
+				"imageuti",
+				"src/main/scala/com/ticketweb/checkout/utils/ImageUtil.scala"
+			],
+			[
+				"loadedpspec.scala",
+				"src/test/scala/com/ticketweb/checkout/event/service/LoadEDPSpec.scala"
+			],
+			[
+				"feerepository",
+				"src/test/scala/com/ticketweb/checkout/dao/FeeRepositorySpec.scala"
+			],
+			[
+				"customtextrepository",
+				"src/test/scala/com/ticketweb/checkout/dao/CustomTextRepositorySpec.scala"
+			],
+			[
+				"fee",
+				"src/test/scala/com/ticketweb/checkout/dao/FeeRepositorySpec.scala"
+			],
+			[
+				"deliveryoptions",
+				"src/main/scala/com/ticketweb/checkout/common/DeliveryOptions.scala"
+			],
+			[
+				"feereposspe",
+				"src/test/scala/com/ticketweb/checkout/dao/FeeRepositorySpec.scala"
+			],
+			[
+				"attra",
+				"src/main/scala/com/ticketweb/checkout/dao/AttractionRepository.scala"
+			],
+			[
+				"eventdetailrepository",
+				"src/main/scala/com/ticketweb/checkout/dao/EventDetailRepository.scala"
+			],
+			[
+				"orgrepository.scala",
+				"src/main/scala/com/ticketweb/checkout/dao/OrgRepository.scala"
+			],
+			[
+				"loadedp",
+				"src/test/scala/com/ticketweb/checkout/event/service/LoadEDPSpec.scala"
+			],
+			[
+				"loadedpspec",
+				"src/test/scala/com/ticketweb/checkout/event/service/LoadEDPSpec.scala"
+			],
+			[
+				"ladedpspe",
+				"src/test/scala/com/ticketweb/checkout/event/service/LoadEDPSpec.scala"
+			],
+			[
+				"calc",
+				"src/main/scala/com/ticketweb/checkout/event/service/CalculateEventStatus.scala"
+			],
+			[
+				"ca",
+				"src/test/scala/com/ticketweb/checkout/event/service/CalculateEventStatusSpec.scala"
+			],
+			[
+				"eventstatuspe",
+				"src/test/scala/com/ticketweb/checkout/event/service/CalculateEventStatusSpec.scala"
+			],
+			[
+				"laodedpspe",
+				"src/test/scala/com/ticketweb/checkout/event/service/LoadEDPSpec.scala"
+			],
+			[
+				"calculatedeliverymethodsspec.scala",
+				"src/test/scala/com/ticketweb/checkout/event/service/CalculateDeliveryMethodsSpec.scala"
+			],
+			[
+				"inventoryrepository.scala",
+				"src/main/scala/com/ticketweb/checkout/dao/InventoryRepository.scala"
+			],
+			[
+				"eventrepository.scala",
+				"src/main/scala/com/ticketweb/checkout/dao/EventRepository.scala"
+			],
+			[
+				"eventattractiondetailsrepository",
+				"src/test/scala/com/ticketweb/checkout/dao/EventAttractionDetailsRepositorySpec.scala"
+			],
+			[
+				"eventpricerepositoryspec",
+				"src/test/scala/com/ticketweb/checkout/dao/EventPriceRepositorySpec.scala"
+			],
+			[
+				"serviceop",
+				"src/main/scala/com/ticketweb/checkout/common/ServiceOptions.scala"
+			],
+			[
+				"sequenceac",
+				"twb-ticketing/src/main/scala/com/tw/ticketing/sequence/application/SequenceActor.scala"
+			],
+			[
+				"image",
+				"twb-ticketing/src/main/scala/com/tw/common/util/ImageUtil.scala"
+			],
+			[
+				"sequence",
+				"twb-ticketing/src/main/scala/com/tw/ticketing/sequence/application/SequenceActor.scala"
+			],
+			[
+				"timeutils",
+				"twb-inventory/src/main/scala/com/tw/inventory/util/TimeUtils.scala"
+			],
+			[
+				"checkoutapp",
+				"twb-checkout/src/main/scala/com/tw/checkout/CheckoutApp.scala"
+			],
+			[
+				"eventinventoriesloaded.scala",
+				"twb-checkout/target/scala-2.11/src_managed/main/com/tw/checkout/inventory/domain/EventInventoriesLoaded.scala"
+			],
+			[
+				"inventoryservices",
+				"twb-inventory/src/main/scala/com/tw/inventory/application/InventoryServices.scala"
+			],
+			[
+				"sequenceactor",
+				"twb-ticketing/src/main/scala/com/tw/ticketing/sequence/application/SequenceActor.scala"
+			],
+			[
+				"limittypes",
+				"twb-inventory/src/main/scala/com/tw/inventory/domain/LimitTypes.scala"
+			],
+			[
+				"generalinventorywrapper.scala",
+				"twb-checkout/src/main/scala/com/tw/checkout/inventory/domain/GeneralInventoryWrapper.scala"
+			],
+			[
+				"inventorylimitconfigrepository.scala",
+				"twb-checkout/src/main/scala/com/tw/checkout/inventory/application/repository/InventoryLimitConfigRepository.scala"
+			],
+			[
+				"holdwrapper.scala",
+				"twb-checkout/src/main/scala/com/tw/checkout/inventory/domain/HoldWrapper.scala"
+			],
+			[
+				"inventorywrapper.scala",
+				"twb-checkout/src/main/scala/com/tw/checkout/inventory/domain/InventoryWrapper.scala"
+			],
+			[
+				"loadinventorylimits",
+				"twb-checkout/target/scala-2.12/src_managed/main/com/tw/checkout/inventory/domain/LoadInventoryLimits.scala"
+			],
+			[
+				"limittype",
+				"twb-inventory/src/main/scala/com/tw/inventory/domain/LimitTypes.scala"
+			],
+			[
+				"inventoryrepository",
+				"twb-checkout/src/main/scala/com/tw/checkout/inventory/application/repository/InventoryRepository.scala"
+			],
+			[
+				"allotmenttypes",
+				"twb-inventory/src/main/scala/com/tw/inventory/domain/AllotmentTypes.scala"
+			],
+			[
+				"reserveticketscala",
+				"twb-inventory/src/main/scala/com/tw/inventory/application/process/ReserveTicketsProcess.scala"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
